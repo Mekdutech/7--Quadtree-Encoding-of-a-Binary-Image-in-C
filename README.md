@@ -17,9 +17,9 @@ Input file example:
 Output data 
 
 Black terminal node at position (2,2) with size 2
-     Black terminal node at position (4,1) with size 1
-     Black terminal node at position (5,1) with size 1
-     Black terminal node at position (4,2) with size 2
-     Black terminal node at position (4,4) with size 2
-     Black terminal node at position (6,4) with size 
+Black terminal node at position (4,1) with size 1
+Black terminal node at position (5,1) with size 1
+Black terminal node at position (4,2) with size 2
+Black terminal node at position (4,4) with size 2
+Black terminal node at position (6,4) with size 1
      
